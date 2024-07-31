@@ -26,7 +26,7 @@ Welcome to **PizzaPlaza** – the ultimate pizza ordering experience! This proje
 
 ## Demo
 
-Check out the live demo of PizzaPlaza [here](#). *(Update with your live demo link)*
+Check out the live demo of PizzaPlaza [here](https://pizza-plaza-h54ng5t3z-partharakshit5653-gmailcoms-projects.vercel.app).
 
 ## Installation
 
