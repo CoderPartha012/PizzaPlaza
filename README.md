@@ -1,7 +1,3 @@
-Here's a `README.md` file for your "PizzaPlaza" project:
-
----
-
 # PizzaPlaza
 
 Welcome to **PizzaPlaza** – the ultimate pizza ordering experience! This project is built using Next.js and Tailwind CSS to create a seamless and responsive user interface for selecting and customizing your favorite pizzas.
