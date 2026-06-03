@@ -77,8 +77,7 @@ PizzaPlaza/
 └── package.json        # Project dependencies and scripts
 ```
 
-## Technologies Used
-
+## Technologies Used :
 - **Next.js:** A React framework for building server-rendered applications.
 - **Tailwind CSS:** A utility-first CSS framework for rapidly building custom designs.
 - **React:** A JavaScript library for building user interfaces.
@@ -87,7 +86,7 @@ PizzaPlaza/
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to PizzaPlaza, please follow these steps:
+Contributions are welcome! If you'd like to contribute to PizzaPlaza, please follow these steps :
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature-name`).
